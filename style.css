@@ -1,0 +1,25 @@
+.line{
+    width:200px;
+    height:10px;
+    background-color:rebeccapurple;
+    margin: auto;
+    margin-bottom:5px;
+}
+#in2{
+    width:900px;
+    height:10px;
+    background-color: blueviolet;
+}
+body{
+    background-color: crimson;
+}
+img{
+    width:300px;
+    height:300px;
+}
+#footer1{
+    background-color: cadetblue;
+    height:80px;
+    overflow: scroll;
+    margin-top:30px;
+}
